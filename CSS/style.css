@@ -1313,7 +1313,7 @@ hr {
         width: 70% !important;
     }
     .why-us .video-background, .why-us #video-background{
-        height: 500px;
+        height: 500px !important;
     }
     .why-us section:nth-of-type(2) {
         width: 100% !important;
