@@ -1317,7 +1317,7 @@ hr {
     }
     .why-us section:nth-of-type(2) {
         width: 100% !important;
-        margin-top: 0 !important;
+        margin-top: -250px !important;
     }
     .why-us h3.card-titile {
         font-size: 32px !important;
