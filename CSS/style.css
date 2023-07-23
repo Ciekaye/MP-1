@@ -1139,7 +1139,7 @@ hr {
         margin: 20px 0;
     }
     .about-us .carousel-slide {
-        margin-top: -500px;
+        margin-top: 0;
     }
     .about-us .au-con, .about-us .au-card, .about-us .au-con img {
         padding: 0 !important;
@@ -1233,7 +1233,7 @@ hr {
 }
 @media only screen and (max-width: 500px){
     .first-section-h, #video-background {
-        height: 800px;
+        height: 800px !important;
     }
     footer {
         margin-top: 0 !important;
@@ -1317,7 +1317,7 @@ hr {
     }
     .why-us section:nth-of-type(2) {
         width: 100% !important;
-        margin-top: -250px;
+        margin-top: 0 !important;
     }
     .why-us h3.card-titile {
         font-size: 32px !important;
