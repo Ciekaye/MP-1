@@ -737,7 +737,6 @@ section .card-section{
 }
 .fill-form input, .fill-form textarea {
     width: 100%;
-    border: none;
     border-radius: 15px;
     background-clip: padding-box;
 }
