@@ -169,7 +169,7 @@ nav {
     margin-top: -850px;
 }
 .services .video-background, .services #video-background{
-    height: 600px;
+    height: 600px !important;
 }
 .contact-us .video-background, .contact-us #video-background {
     height: 800px;
