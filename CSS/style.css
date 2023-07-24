@@ -1021,8 +1021,8 @@ hr {
         margin: 0 !important;
     }
     .overlap {
-        height: 50vw;
-        margin-bottom: 200px;
+        height: 50vw !important;
+        margin-bottom: 200px !important;
     }
     .doing {
         margin: 0;
@@ -1033,7 +1033,7 @@ hr {
         padding: 0 !important;
     }
     h3 {
-        font-size: 6vw;
+        font-size: 5vw;
     }
     .top-img {
         top: 20vw;
@@ -1159,7 +1159,7 @@ hr {
         margin-bottom: 0px !important;
     }
     .why-us .video-background, .why-us #video-background{
-        height: 600px;
+        height: 600px !important;
     }
     .why-us .hero-text {
         margin: 0 !important;
